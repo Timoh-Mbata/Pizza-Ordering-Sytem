@@ -20,7 +20,7 @@ def set_bg_from_local(image_path):
         unsafe_allow_html=True
     )
 
-set_bg_from_local("C:/Users/Admin/Desktop/portofolio/python for Backend and Data Science/functions/Pizza Order Now Interface.png")
+set_bg_from_local("Pizza Order Now Interface.png")
 
 
 # Define pizza prices
